@@ -1,5 +1,8 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
+
+### Enunciado del taller (no se sube al repo) ###
+Enunciado Taller Craps Git FPOE.pdf
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
