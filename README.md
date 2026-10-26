@@ -1,2 +1,7 @@
-- Jhonathan Delgado
-- Alumnos de FPOE Gr80 2026-II
+# Craps game
+
+## Integrantes
+
+- Gabriel Giraldo Otalvora - 2540970
+- Fernando Andrés Giraldo Mejía - 2537774
+- Santiago Hurtado Rodriguez - 202538363
